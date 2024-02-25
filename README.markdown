@@ -1,3 +1,8 @@
+# Installation for this fork
+
+    git clone https://github.com/arvalid/vim-pathogen.git ~/.vim
+    git submodule update --init --recursive
+
 # pathogen.vim
 
 Manage your `'runtimepath'` with ease.  In practical terms, pathogen.vim
