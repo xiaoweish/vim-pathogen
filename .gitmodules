@@ -1,0 +1,27 @@
+[submodule "bundle/arm64asm-vim"]
+	path = bundle/arm64asm-vim
+	url = https://github.com/compnerd/arm64asm-vim.git
+[submodule "bundle/vim-hjson"]
+	path = bundle/vim-hjson
+	url = https://github.com/hjson/vim-hjson.git
+[submodule "bundle/VisIncr"]
+	path = bundle/VisIncr
+	url = https://github.com/vim-scripts/VisIncr.git
+[submodule "bundle/arm-syntax-vim"]
+	path = bundle/arm-syntax-vim
+	url = https://github.com/ARM9/arm-syntax-vim.git
+[submodule "bundle/verilog_systemverilog.vim"]
+	path = bundle/verilog_systemverilog.vim
+	url = https://github.com/vhda/verilog_systemverilog.vim.git
+[submodule "bundle/Align"]
+	path = bundle/Align
+	url = https://github.com/vim-scripts/Align.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/vim-log-highlighting"]
+	path = bundle/vim-log-highlighting
+	url = https://github.com/MTDL9/vim-log-highlighting.git
+[submodule "bundle/riscv.vim"]
+	path = bundle/riscv.vim
+	url = https://github.com/kylelaker/riscv.vim.git
