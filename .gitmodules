@@ -25,3 +25,6 @@
 [submodule "bundle/vim-abolish"]
 	path = bundle/vim-abolish
 	url = https://github.com/tpope/vim-abolish.git
+[submodule "bundle/vim-log-highlighting"]
+	path = bundle/vim-log-highlighting
+	url = https://github.com/arvalid/vim-log-highlighting.git
