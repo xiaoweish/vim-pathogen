@@ -28,3 +28,6 @@
 [submodule "bundle/vim-log-highlighting"]
 	path = bundle/vim-log-highlighting
 	url = https://github.com/arvalid/vim-log-highlighting.git
+[submodule "bundle/vim-sail-higlighting"]
+	path = bundle/vim-sail-higlighting
+	url = https://github.com/arvalid/vim-sail-higlighting.git
