@@ -19,9 +19,6 @@
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
-[submodule "bundle/vim-log-highlighting"]
-	path = bundle/vim-log-highlighting
-	url = https://github.com/MTDL9/vim-log-highlighting.git
 [submodule "bundle/riscv.vim"]
 	path = bundle/riscv.vim
 	url = https://github.com/kylelaker/riscv.vim.git
