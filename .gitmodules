@@ -25,3 +25,6 @@
 [submodule "bundle/riscv.vim"]
 	path = bundle/riscv.vim
 	url = https://github.com/kylelaker/riscv.vim.git
+[submodule "bundle/vim-abolish"]
+	path = bundle/vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
