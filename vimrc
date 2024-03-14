@@ -49,5 +49,18 @@ set tabpagemax=100
 set fdm=syntax
 set diffopt+=iwhite
 
-set guifont=Monospace\ 16
+set guifont=Monospace\ 15
+
+colo desert
+
+" Make gf work for such: (util/gcc-toolchain-builder/README.md#Prerequisites)
+set suffixesadd+=#
+set includeexpr=substitute(v:fname,'#.*$','','')
+
+set vb
+
+au BufNewFile,BufRead *.flist     set filetype=verilog
+au BufNewFile,BufRead *.core      set filetype=yaml
+au BufNewFile,BufRead *.log.iss   set filetype=log
+
 
