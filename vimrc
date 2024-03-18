@@ -62,5 +62,6 @@ set vb
 au BufNewFile,BufRead *.flist     set filetype=verilog
 au BufNewFile,BufRead *.core      set filetype=yaml
 au BufNewFile,BufRead *.log.iss   set filetype=log
+au BufNewFile,BufRead *.f         set filetype=verilog
 
 
