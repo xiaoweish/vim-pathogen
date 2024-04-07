@@ -57,8 +57,15 @@ colo desert
 set suffixesadd+=#
 set includeexpr=substitute(v:fname,'#.*$','','')
 
-set vb
+" Disable audible bell
+set noerrorbells
+set visualbell
+set t_vb=
 
+" Disable visual bell
+set novisualbell
+
+"
 au BufNewFile,BufRead *.flist     set filetype=verilog
 au BufNewFile,BufRead *.core      set filetype=yaml
 au BufNewFile,BufRead *.log.iss   set filetype=log
