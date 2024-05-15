@@ -71,4 +71,6 @@ au BufNewFile,BufRead *.core      set filetype=yaml
 au BufNewFile,BufRead *.log.iss   set filetype=log
 au BufNewFile,BufRead *.f         set filetype=verilog
 
+" To make each tab's title display only the file name (without the full path)
+set guitablabel=%t
 
