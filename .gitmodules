@@ -21,7 +21,7 @@
 	url = https://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/riscv.vim"]
 	path = bundle/riscv.vim
-	url = https://github.com/kylelaker/riscv.vim.git
+	url = https://github.com/xiaoweish/riscv.vim.git
 [submodule "bundle/vim-abolish"]
 	path = bundle/vim-abolish
 	url = https://github.com/tpope/vim-abolish.git
