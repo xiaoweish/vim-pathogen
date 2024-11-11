@@ -1,6 +1,6 @@
 # Installation for this fork
 
-    git clone https://github.com/arvalid/vim-pathogen.git ~/.vim
+    git clone https://github.com/xiaoweish/vim-pathogen.git ~/.vim
     git submodule update --init --recursive
 
 # pathogen.vim
