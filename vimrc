@@ -52,6 +52,10 @@ set diffopt+=iwhite
 set guifont=Monospace\ 15
 
 colo desert
+if &diff
+    colorscheme desert
+endif
+
 
 " Make gf work for such: (util/gcc-toolchain-builder/README.md#Prerequisites)
 set suffixesadd+=#
